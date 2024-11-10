@@ -1,0 +1,5 @@
+train: /mnt/c/Users/myk06/PythonPrograms/lamassu-satellite/train/images
+val: ''
+
+nc: 1  # Number of classes (cotton field)
+names: ['cotton']  # Class name
