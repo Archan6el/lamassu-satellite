@@ -2,6 +2,8 @@
 
 Check out [this](https://github.com/Archan6el/lamassu-website) git repo to see the web interface that utilizes our ML model
 
+Our presentation at the Datathon can be found in the `presentation` directory.
+
 # Project Overview
 
 Our project aims to develop an AI-based tool to detect and identify cotton fields within satellite imagery for improved agricultural monitoring. Our tool was specifically developed for Coffee county in Georgia, US. 
