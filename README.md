@@ -23,3 +23,8 @@ Finally, we developed a straightforward Flask website as the front-end interface
 ![figure4](images/true.png)
 
 **Figure 4.** True cotton field locations, marked in red, from the CroplandCROS web app
+
+In regards to the scalability, our model is able to pretty accurately identify cotton fields, but with relatively low confidence intervals due to the small dataset. The model can definitely be expanded to be trained on a much larger dataset, improving accuracy of cotton field detection. Additionally, the model can be utilized in other counties outside of Coffee county, Georgia, due to this training. Lastly, the area calculation can be “tightened” and made to be more accurate, as our solution is relatively rudimentary due to time constraints. 
+
+The development of this program can prove beneficial to the agriculture industry for a number of reasons. Firstly, with enough training, this program can outperform existing datasets like CroplandCROS, allowing for a more accurate and representative analysis of cotton fields in the United States. Secondly, the program can help farmers optimize resource allocation, further reducing waste and improving crop yields.
+
