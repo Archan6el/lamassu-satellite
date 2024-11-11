@@ -1,6 +1,6 @@
 # lamassu-satellite
 
-Check out [THIS](https://github.com/Archan6el/lamassu-website) git repo to see the web interface that utilizes our ML model
+Check out [this](https://github.com/Archan6el/lamassu-website) git repo to see the web interface that utilizes our ML model
 
 # Project Overview
 
